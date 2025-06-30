@@ -1,0 +1,50 @@
+Delhi,Red Fort,28.656159,77.242343
+Delhi,India Gate,28.6129,77.2295
+Delhi,Qutub Minar,28.5244,77.1855
+Delhi,Lotus Temple,28.5535,77.2588
+Delhi,Akshardham,28.6127,77.2774
+Mumbai,Gateway of India,18.921984,72.834654
+Mumbai,Marine Drive,18.943,72.8238
+Mumbai,Chhatrapati Shivaji Terminus,18.9402,72.8356
+Mumbai,Elephanta Ferry Point,18.9218,72.8345
+Mumbai,Siddhivinayak Temple,19.0169,72.8305
+Kolkata,Victoria Memorial,22.5448,88.3426
+Kolkata,Howrah Bridge,22.585,88.3468
+Kolkata,Dakshineswar Kali Temple,22.6552,88.3639
+Kolkata,Indian Museum,22.5626,88.35
+Kolkata,Eco Park,22.6033,88.4658
+Bengaluru,Lalbagh Botanical Garden,12.9507,77.5848
+Bengaluru,Bangalore Palace,12.9987,77.5922
+Bengaluru,Cubbon Park,12.9763,77.5929
+Bengaluru,ISKCON Temple,13.0096,77.5511
+Bengaluru,Bannerghatta National Park,12.8,77.577
+Hyderabad,Charminar,17.3616,78.4747
+Hyderabad,Golconda Fort,17.3833,78.4011
+Hyderabad,Hussain Sagar Lake,17.4239,78.4738
+Hyderabad,Ramoji Film City,17.2543,78.6816
+Hyderabad,Birla Mandir,17.4062,78.4691
+Chennai,Marina Beach,13.05,80.2824
+Chennai,Fort St. George,13.0827,80.2877
+Chennai,Kapaleeshwarar Temple,13.0337,80.2697
+Chennai,Guindy National Park,13.005,80.2366
+Chennai,Vivekananda House,13.0424,80.278
+Pune,Shaniwar Wada,18.5196,73.8553
+Pune,Aga Khan Palace,18.5522,73.9034
+Pune,Sinhagad Fort,18.3663,73.7551
+Pune,Dagadusheth Halwai Ganapati Temple,18.5165,73.8567
+Pune,Raja Dinkar Kelkar Museum,18.5161,73.8544
+Ahmedabad,Sabarmati Ashram,23.06,72.58
+Ahmedabad,Adalaj Stepwell,23.1707,72.5815
+Ahmedabad,Kankaria Lake,22.9911,72.6038
+Ahmedabad,Sidi Saiyyed Mosque,23.0258,72.5714
+Ahmedabad,Bhadra Fort,23.0254,72.5869
+Jaipur,Hawa Mahal,26.9239,75.8267
+Jaipur,Amber Fort,26.9855,75.8507
+Jaipur,City Palace,26.9256,75.8235
+Jaipur,Jantar Mantar,26.9246,75.8235
+Jaipur,Nahargarh Fort,26.9394,75.8122
+Lucknow,Bara Imambara,26.8688,80.9151
+Lucknow,Rumi Darwaza,26.8705,80.9123
+Lucknow,British Residency,26.8616,80.9463
+Lucknow,Ambedkar Memorial Park,26.8381,81.0044
+Lucknow,Janeshwar Mishra Park,26.8429,81.0192
