@@ -42,7 +42,7 @@ for city in places_df["City"].unique():
         lat2, lon2 = snap_to_road(p2["Latitude"], p2["Longitude"])
         coords = ((lon1, lat1), (lon2, lat2))
 
-        # Use walking mode for big cities
+        
         profile =  "driving-car"
 
         try:
